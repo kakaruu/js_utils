@@ -1,0 +1,27 @@
+{
+  "name": "@jhlee/js_utils",
+  "version": "1.0.0",
+  "description": "js에서 사용할 유틸들",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kakaruu/js_utils.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "util"
+  ],
+  "author": "Jaeho Lee <jhlee21071@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kakaruu/js_utils/issues"
+  },
+  "homepage": "https://github.com/kakaruu/js_utils#readme",
+  "dependencies": {
+    "winston": "^3.2.1"
+  }
+}
